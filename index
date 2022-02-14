@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<div class="center">
+<title>Page Title</title>
+</div>
+<body>
+<h1>THIS IS A FICTIONAL ROOM</h1>
+<div class="center">
+<img src="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1628273532-bed-1628273507.jpg?crop=1xw:1xh;center,top&resize=640%3A%2A" width="500" height="650">
+</img>
+</div>
+<p>I like this room because...</p>
+<ul>
+	<li>It looks relaxing</li>
+	<li>I like the style</li>
+	<li>I like the atmosphere</li>
+</ul>
+</body>
+</head>
+</html>
