@@ -1,33 +1,23 @@
-.center {
+.content {
 	max-width: 1000px;
 	margin: auto;
 }
 
 body {
-	background-color: lavender;
+	background-color: gainsboro;
 }
 
 h1 {
-	font-family: HelveticaBold; 
-	font-size: 60px;
-	letter-spacing: 3px;
-	color: navy;
-}
-
-/*h2 {*/
 	text-align: center;
-	font-family: HelveticaBold;
+	font-family: HelveticaBold; 
 	font-size: 50px;
 	letter-spacing: 3px;
-	color: navy;
+	color: darkslateblue;
 }
 
-/*h3 {*/
-	text-align: center;
-	font-family: HelveticaBold;
-	font-size: 30px;
-	letter-spacing: 3px;
-	color: navy;
+a {
+	font-family: Helvetica;
+	font-size: 20px;
 }
 
 h4 {
