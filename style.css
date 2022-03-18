@@ -1,5 +1,5 @@
 .content {
-	max-width: 1000px;
+	max-width: 1600px;
 	margin: auto;
 }
 
@@ -8,6 +8,9 @@ body {
 }
 
 h1 {
+	margin-top: 100px;
+	margin-right: 300px;
+	margin-left: 300px;
 	text-align: center;
 	font-family: HelveticaBold; 
 	font-size: 50px;
