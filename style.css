@@ -4,17 +4,31 @@
 }
 
 body {
-	background-color: antiquewhite;
+	background-color: ivory;
 }
 
 h1 {
 	font-family: HelveticaBold; 
 	font-size: 60px;
 	letter-spacing: 3px;
-	color: darkslategray;
+	color: navy;
 }
 
-p {
+h2 {
+	font-family: HelveticaBold;
+	font-size: 50;
+	letter-spacing: 3px;
+	color: navy;
+}
+
+h3 {
+	font-family: HelveticaBold;
+	font-size: 30;
+	letter-spacing: 3px;
+	color: navy;
+}
+
+h4 {
 	font-family: HelveticaBold;
 	font-size: 24px;
 	color: black;
@@ -23,5 +37,5 @@ p {
 li{
 	font-family: Helvetica;
 	font-size: 18px;
-	color: saddlebrown;
+	color: black;
 }
