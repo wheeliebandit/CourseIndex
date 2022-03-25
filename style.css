@@ -34,3 +34,35 @@ li{
 	font-size: 18px;
 	color: black;
 }
+
+.dropbtn {
+	background-color: #E6E6FA;
+	color: black;
+	padding: 20px;
+	font-size: 20px;
+	border: none;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #E6E6FA;
+	max-width: 1000px;
+	z-index: 1;
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 30px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #7B68EE;}
