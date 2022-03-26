@@ -37,8 +37,7 @@ li{
 
 div.gallery{
 	margin: 50px;
-	display: flex;
-	align-items: flex-end;
+	float left;
 	width: 500px;
 }
 
