@@ -36,7 +36,7 @@ li{
 }
 
 div.gallery{
-	margin: 50px;
+	margin: 10px;
 	float left;
 	width: 500px;
 }
@@ -47,7 +47,7 @@ div.gallery img {
 }
 
 div.desc {
-	padding: 5px;
+	padding: 1px;
 	text-align: center;
-	font-family: HelveticaBold;
+	font-family: Helvetica;
 }
