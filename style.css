@@ -35,34 +35,20 @@ li{
 	color: black;
 }
 
-.dropbtn {
-	background-color: #E6E6FA;
-	color: black;
-	padding: 20px;
-	font-size: 20px;
-	border: none;
+div.gallery{
+	margin: 10px;
+	float: left;
+	width: 500px;
 }
 
-.dropdown {
-	position: relative;
-	display: inline-block;
+div.gallery img {
+	width: 100%;
+	height: auto;
 }
 
-.dropdown-content {
-	display: none;
-	position: absolute;
-	background-color: #E6E6FA;
-	max-width: 1000px;
-	z-index: 1;
+div.desc {
+	padding: 1px;
+	text-align: center;
+	font-size: 16px;
+	font-family: HelveticaBold;
 }
-
-.dropdown-content a {
-	color: black;
-	padding: 30px;
-	text-decoration: none;
-	display: block;
-}
-
-.dropdown-content a:hover {background-color: #ddd;}
-.dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: #7B68EE;}
