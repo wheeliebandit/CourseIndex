@@ -1,5 +1,5 @@
 .content {
-	max-width: 1800px;
+	max-width: 1600px;
 	margin: auto;
 }
 
@@ -12,32 +12,15 @@ h1 {
 	margin-right: 300px;
 	margin-left: 300px;
 	text-align: center;
-	font-family: HelveticaExtraBold; 
+	font-family: HelveticaBold;
 	font-size: 50px;
 	letter-spacing: 2px;
 	color: darkslateblue;
 }
 
-a {
-	font-family: Helvetica;
-	font-size: 20px;
-}
-
-h4 {
-	font-family: HelveticaBold;
-	font-size: 24px;
-	color: black;
-}
-
-li{
-	font-family: Helvetica;
-	font-size: 18px;
-	color: black;
-}
-
 div.gallery{
 	margin: 10px;
-	float left;
+	float: left;
 	width: 500px;
 }
 
